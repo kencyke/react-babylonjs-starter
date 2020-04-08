@@ -1,5 +1,4 @@
 import React from "react"
-import "./App.css"
 import { Scene, Engine } from "react-babylonjs"
 import { Vector3 } from "@babylonjs/core"
 import PointCloudLoader from "./PointCloudLoader"
