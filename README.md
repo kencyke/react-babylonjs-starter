@@ -42,3 +42,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Citation
+
+`./public/assets/velodyne/000000.bin` is a part of [the KITTI dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php):
+
+```
+@ARTICLE{Geiger2013IJRR,
+  author = {Andreas Geiger and Philip Lenz and Christoph Stiller and Raquel Urtasun},
+  title = {Vision meets Robotics: The KITTI Dataset},
+  journal = {International Journal of Robotics Research (IJRR)},
+  year = {2013}
+}
+```
